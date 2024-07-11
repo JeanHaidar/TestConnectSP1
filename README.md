@@ -1,2 +1,2 @@
 # TestConnectSP1
-# Test to connect to SP
+# Test to connect to a Stored procedure
